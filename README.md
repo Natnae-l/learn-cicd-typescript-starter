@@ -1,4 +1,4 @@
-# learn-cicd-typescript-starter (Notely)
+fix the image part # learn-cicd-typescript-starter (Notely)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
@@ -6,20 +6,18 @@ This repo contains the typescript starter code for the "Notely" application for 
 
 Make sure you're on Node version 18+.
 
-Create a `.env` file in the root of the project with the following contents:
+Create a .env file in the root of the project with the following contents:
 
-```bash
+bash
 PORT="8080"
-```
 
 Run the server:
 
-```bash
+bash
 npm install
 npm run dev
-```
 
-_This starts the server in non-database mode._ It will serve a simple webpage at `http://localhost:8080`.
+_This starts the server in non-database mode._ It will serve a simple webpage at http://localhost:8080.
 
 Boot.dev's Notely app
 
