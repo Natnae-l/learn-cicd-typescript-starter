@@ -25,4 +25,4 @@ https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.
 
 ![alt text goes here](IMAGE_URL)
 
-You do _not_ need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
+You do _not_ need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!!
