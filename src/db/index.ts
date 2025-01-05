@@ -24,3 +24,5 @@ export function assertDbConnection() {
     throw new Error("Database connection is not available");
   }
 }
+
+function assert() {}
